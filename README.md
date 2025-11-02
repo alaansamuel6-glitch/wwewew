@@ -4,7 +4,7 @@ import random
 import requests
 
 # Замени 'TOKEN' на токен твоего бота
-bot = telebot.TeleBot("8403887704:AAHWL5Q7hK-x25X1reo2NUy5hKEiw8Axg98")
+bot = telebot.TeleBot("dsadsa")
 images = "mem1,mem2,mem3"
 quotes = [
     "Продукты питания	разлагаются 7-14 дней»",
