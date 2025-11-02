@@ -3,7 +3,6 @@ import os
 import random
 import requests
 
-# Замени 'TOKEN' на токен твоего бота
 bot = telebot.TeleBot("dsadsa")
 images = "mem1,mem2,mem3"
 quotes = [
